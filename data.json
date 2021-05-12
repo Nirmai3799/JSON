@@ -3,6 +3,12 @@
         "id": 1,
         "title":"Usage of variables",
         "content":"A variable is a named value that references or stores a piece of data.Unlike in math, variables can have new values assigned to them, even values of different types.Variables can be given any name, as long as it starts with a letter and contains no special characters."
+    },
+    {
+
+        "id":2,
+        "title":"Variables",
+        "content":"HI"
     }
   
 
