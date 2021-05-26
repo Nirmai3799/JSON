@@ -10,6 +10,7 @@
         ],
         "body": "<b>Module Overview:</b><br>This module will describe the basics of computation. You will identify the characteristics of a programming language and start defining the syntax and semantics of the python language.<br><br>This module also illustrates the fundamental concepts required to write the code in python language. You will be knowing about the comments, operators etc and solve problems to get hands-on experience on these concepts.<p><b>Learning Objectives:</b><ol><li>Introduction to the python language</li><li>Understand the simple hello world program</li><li>Make use of comments</li><li>Usage of console input and output</li><li>Understanding different operators</li></ol>",
         "id": 3,
+        "url": null,
         "title": "Getting Started with Data Types and Operations",
        
     },
@@ -24,6 +25,7 @@
         ],
         "body": "<b>Module Overview:</b><br>In this module, you will combine the concepts you have learned so far with variables, branching and functions. It will introduce you to a key element called variables which is the basic building block of every program. You will know how to deal with decision making and the purpose of functions and how to implement  them in python language.<p><b>Learning Objectives:</b><ol><li>Usage of variables</li><li>Apply conditional branching</li><li>Define functions and how to use them</li><li>How to use function arguments and return values</li><li>Explains the scope of variables</li></ol>",
         "id": 2,
+        "url": null,
         "title": "Variables, Functions and Conditionals",
        
     },
@@ -37,6 +39,7 @@
         ],
         "body": "<b>Module Overview:</b><br>In this module, you will combine the concepts you have learned so far with iteration. You will know how to deal with lines of code that must be executed multiple times. You will be introduced to the concept of loops and its characteristics. You will construct different loops for solving the problems.<p><b>Learning Objectives:</b><ol><li>Define loop and its characteristics</li><li>Constructing a For loop when you know the number of iterations</li><li>Constructing a While loop when you just know the terminating condition, but not the number of iterations.</li></ol>",
         "id": 1,
+        "url":null,
         "title": "Loops",
      
     },
