@@ -20,7 +20,7 @@
             "Quiz on Conditionals",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>In this module, you will combine the concepts you have learned so far with variables, branching and functions. It will introduce you to a key element called variables which is the basic building block of every program. You will know how to deal with decision making and the purpose of functions and how to implement  them in python language.<p><b>Learning Objectives:</b><ol><li>Usage of variables</li><li>Apply conditional branching</li><li>Define functions and how to use them</li><li>How to use function arguments and return values</li><li>Explains the scope of variables</li></ol>",
+        "desc": "Module Overview: In this module, you will combine the concepts you have learned so far with variables, branching and functions. It will introduce you to a key element called variables which is the basic building block of every program. You will know how to deal with decision making and the purpose of functions and how to implement  them in python language. Learning Objectives: Usage of variables Apply conditional branching Define functions and how to use them How to use function arguments and return values Explains the scope of variables",
         "id": null,
         "name": "Variables, Functions and Conditionals",
         "module_id": "CSPP-1M2"
@@ -31,7 +31,7 @@
             "Quiz on Loops and range",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>In this module, you will combine the concepts you have learned so far with iteration. You will know how to deal with lines of code that must be executed multiple times. You will be introduced to the concept of loops and its characteristics. You will construct different loops for solving the problems.<p><b>Learning Objectives:</b><ol><li>Define loop and its characteristics</li><li>Constructing a For loop when you know the number of iterations</li><li>Constructing a While loop when you just know the terminating condition, but not the number of iterations.</li></ol>",
+        "desc": "Module Overview: In this module, you will combine the concepts you have learned so far with iteration. You will know how to deal with lines of code that must be executed multiple times. You will be introduced to the concept of loops and its characteristics. You will construct different loops for solving the problems. Learning Objectives:  Define loop and its characteristics Constructing a For loop when you know the number of iterations, Constructing a While loop when you just know the terminating condition, but not the number of iterations.",
         "id": null,
         "name": "Loops",
         "module_id": "CSPP-1M3"
@@ -40,7 +40,7 @@
         "activities": [
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>This module is designed to reinforce your understanding about the basic concepts you have learned so far. There are a list of problem statements which needs you to pay more attention while solving.<p><b>Learning Objectives:</b><ol><li>Solving the given problem statements</li></ol>",
+        "desc": "Module Overview: This module is designed to reinforce your understanding about the basic concepts you have learned so far. There are a list of problem statements which needs you to pay more attention while solving. Learning Objectives: Solving the given problem statements",
         "id": null,
         "name": "Loops - 2",
         "module_id": "CSPP-1M4"
@@ -49,7 +49,7 @@
         "activities": [
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>This module is designed to reinforce your understanding about the basic concepts you have learned so far. There are a list of problem statements which needs you to pay more attention while solving.<p><b>Learning Objectives:</b><ol><li>Solving the given problem statements</li></ol>",
+        "desc": "Module Overview: This module is designed to reinforce your understanding about the basic concepts you have learned so far. There are a list of problem statements which needs you to pay more attention while solving. Learning Objectives: Solving the given problem statements",
         "id": null,
         "name": "Loops Practice",
         "module_id": "CSPP-1M5"
@@ -70,7 +70,7 @@
             "Code camp",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>In this module you will know how to store a text data and how to manipulate it based on the requirements of the problem statement. You will be introduced to the built in functions available for strings.<p><b>Learning Objectives:</b><ol><li>What is a string</li><li>Make use of builtin functions of strings</li></ol>",
+        "desc": "Module Overview: In this module you will know how to store a text data and how to manipulate it based on the requirements of the problem statement. You will be introduced to the built in functions available for strings. Learning Objectives: What is a string,  Make use of builtin functions of strings",
         "id": null,
         "name": "Strings",
         "module_id": "CSPP-1M6"
@@ -81,7 +81,7 @@
             "Quiz on Strings - 2",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>This module is designed to reinforce your understanding about the basic concepts you have learned so far. There are a list of problem statements which needs you to pay more attention while solving.<p><b>Learning Objectives:</b><ol><li>Solving the given problem statements</li></ol>",
+        "desc": "Module Overview: This module is designed to reinforce your understanding about the basic concepts you have learned so far. There are a list of problem statements which needs you to pay more attention while solving. Learning Objectives: Solving the given problem statements",
         "id": null,
         "name": "Strings - 2",
         "module_id": "CSPP-1M7"
@@ -92,7 +92,7 @@
             "List basics",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>This module will demonstrate what are exceptions and when to apply them while solving the problems. By the end of this module, you will be able to implement exceptional handling in the code. Just writing the code to solve a problem is not enough, you have to verify the code that it works perfectly in all the scenarios and contains no bugs.Here we will describe how to build the testsuite for testing the code.<p><b>Learning Objectives:</b><ol><li>Perform Testing And Debugging</li><li>Introduction to Errors and Exceptions</li><li>What is an exception and their types of exceptions in python?</li><li>Difference between errors and exceptions</li><li>How to handle exceptions</li><li>How to raise user defined exceptions</li></ol>",
+        "desc": "Module Overview: This module will demonstrate what are exceptions and when to apply them while solving the problems. By the end of this module, you will be able to implement exceptional handling in the code. Just writing the code to solve a problem is not enough, you have to verify the code that it works perfectly in all the scenarios and contains no bugs.Here we will describe how to build the testsuite for testing the code. Learning Objectives: Perform Testing And Debugging Introduction to Errors and Exceptions What is an exception and their types of exceptions in python? Difference between errors and exceptions How to handle exceptions, How to raise user defined exceptions",
         "id": null,
         "name": "Debugging and List basics",
         "module_id": "CSPP-1M8"
@@ -115,7 +115,7 @@
             "List Methods in 1D Lists and Tuples ",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>This module explains  how to store a collection of data in python language. Describes the syntax and functions available for creating and using python objects.<p><b>Learning Objectives:</b><ol><li>Illustrate the necessity of objects</li><li>How to create lists</li><li>Manipulate lists with predefined functions</li></ol>",
+        "desc": "Module Overview: This module explains  how to store a collection of data in python language. Describes the syntax and functions available for creating and using python objects. Learning Objectives: Illustrate the necessity of objects How to create lists, Manipulate lists with predefined functions",
         "id": null,
         "name": "Lists",
         "module_id": "CSPP-1M9"
@@ -129,7 +129,7 @@
             "Locker Problem",
             "Anagrams"
         ],
-        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "desc": "Module Overview: This module explains  another python object called tuples. You will also understand the difference between lists and tuples Learning Objectives: How to create tuples Manipulate tuples with predefined functions Worked examples on Lists",
         "id": null,
         "name": "Tuples and Lists",
         "module_id": "CSPP-1M10"
@@ -141,7 +141,7 @@
             "Quiz on 2d Lists",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>This module is an extension of the concept lists you have learned in the previous module. You will be able to understand how matrix can be represented in python.<p><b>Learning Objectives:</b><ol><li>How to create 2d lists</li><li>Perform iterations on 2d lists</li><li>Understanding copying and aliasing</li><li>Introduction to 3d lists</li></ol>",
+        "desc": "Module Overview: This module is an extension of the concept lists you have learned in the previous module. You will be able to understand how matrix can be represented in python. Learning Objectives: How to create 2d lists, Perform iterations on 2d lists, Understanding copying and aliasing, Introduction to 3d lists",
         "id": null,
         "name": "2D Lists",
         "module_id": "CSPP-1M11"
@@ -152,7 +152,7 @@
             "Quiz on Sets",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>This module explains the basic characteristics of python sets and describes how to access and manage the data in them. By the end of this module, you will be able to create the sets and manipulate it with the built-in functions for solving the problems.<p><b>Learning Objectives:</b><ol><li>Defining a Set</li><li>Describe properties of a set</li><li>Describe how hashing works</li></ol>",
+        "desc": "Module Overview: This module explains the basic characteristics of python sets and describes how to access and manage the data in them. By the end of this module, you will be able to create the sets and manipulate it with the built-in functions for solving the problems. Learning Objectives: Defining a Set, Describe properties of a set, Describe how hashing works",
         "id": null,
         "name": "Sets",
         "module_id": "CSPP-1M12"
@@ -164,7 +164,7 @@
             "Assignments"
 
         ],
-        "desc": "<b>Module Overview:</b><br>This module explains the basic characteristics of python sets and dictionaries and describes how to access and manage the data in them. By the end of this module you will be able to create the sets, dictionaries and manipulate it with the built-in functions for solving the problems.<p><b>Learning Objectives:</b><ol><li>Defining a Dictionary and Set</li><li>Accessing the keys and values in a dictionary</li><li>Describe operations using the inbuilt functions</li></ol>",
+        "desc": "Module Overview:</b><br>This module explains the basic characteristics of python sets and dictionaries and describes how to access and manage the data in them. By the end of this module you will be able to create the sets, dictionaries and manipulate it with the built-in functions for solving the problems. Learning Objectives: Defining a Dictionary and Set, Accessing the keys and values in a dictionary, Describe operations using the inbuilt functions",
         "id": null,
         "name": "Dictionaries",
         "module_id": "CSPP-1M13"
@@ -175,7 +175,7 @@
             "Quiz on Recursion",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>This module explains you what is recursion and  demonstrates examples how to work with recursion. You will also understand the difference between the iterations and recursion.<p><b>Learning Objectives:</b><ol><li>Understand the working of recursion</li><li>Difference between iteration and recursion</li></ol>",
+        "desc": "Module Overview: This module explains you what is recursion and demonstrates examples how to work with recursion. You will also understand the difference between the iterations and recursion. Learning Objectives: Understand the working of recursion Difference between iteration and recursion",
         "id": null,
         "name": "Recursion",
         "module_id": "CSPP-1M14"
@@ -186,7 +186,7 @@
             "Quiz on Recursion Practice",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>This module explains you what is recursion and  demonstrates examples how to work with recursion. You will also understand the difference between the iterations and recursion.<p><b>Learning Objectives:</b><ol><li>Understand the working of recursion</li><li>Difference between iteration and recursion</li></ol>",
+        "desc": " Module Overview: This module explains you what is recursion and  demonstrates examples how to work with recursion. You will also understand the difference between the iterations and recursion. Learning Objectives: Understand the working of recursion Difference between iteration and recursion ",
         "id": null,
         "name": "Recursion Practice",
         "module_id": "CSPP-1M15"
@@ -198,7 +198,7 @@
             "Quiz on OOP",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>This module provides an introduction to Object Oriented Programming and also explains how to use classes and objects in python<p><b>Learning Objectives:</b><ol><li>Explain the Concepts of Object Oriented Programming</li><li>Define and give real-world examples of class, object, attribute/field, method.</li><li>Define a class with its properties and behaviour</li><li>Create and Use objects</li><li>Implementation of  inheritance</li></ol>",
+        "desc": "Module Overview: This module provides an introduction to Object Oriented Programming and also explains how to use classes and objects in python Learning Objectives:  Explain the Concepts of Object Oriented Programming  Define and give real-world examples of class, object, attribute/field, method.  Define a class with its properties and behaviour  Create and Use objects Implementation of  inheritance",
         "id": null,
         "name": "Object-Oriented Programming (OOP) - 1",
         "module_id": "CSPP-1M16"
@@ -209,7 +209,7 @@
             "Quiz on Special Methods, Inheritance and More",
             "Assignments"
         ],
-        "desc": "<b>Module Overview:</b><br>This module provides an introduction to Object Oriented Programming and also explains how to use classes and objects in python<p><b>Learning Objectives:</b><ol><li>Explain the Concepts of Object Oriented Programming</li><li>Define and give real-world examples of class, object, attribute/field, method.</li><li>Define a class with its properties and behaviour</li><li>Create and Use objects</li><li>Implementation of  inheritance</li></ol>",
+        "desc": "Module Overview: This module provides an introduction to Object Oriented Programming and also explains how to use classes and objects in python Learning Objectives: Explain the Concepts of Object Oriented Programming Define and give real-world examples of class, object, attribute/field, method. Define a class with its properties and behaviour Create and Use objects  Implementation of  inheritance",
         "id": null,
         "name": "Object-Oriented Programming (OOP) - 2",
         "module_id": "CSPP-1M17"
@@ -220,7 +220,7 @@
             "Animation - 1",
             "Animation - 2"
         ],
-        "desc": "<b>Module Overview:</b><br>This module provides you with the refereces you need to use for the project that you are going to work.<p><b>Learning Objectives:</b><ol><li>Create GUI for simple games.</li><li>Implements Graphics and Animation</li><li>Understand working in teams</li></ol>",
+        "desc": "Module Overview: This module provides you with the refereces you need to use for the project that you are going to work. Learning Objectives: Create GUI for simple games. Implements Graphics and Animation  Understand working in teams",
         "id": null,
         "name": "Project",
         "module_id": "CSPP-1M18"
