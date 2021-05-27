@@ -7,7 +7,8 @@
             "Installations",
             "Assignment"
         ],
-        "desc": "<b>Module Overview:</b><br>This module will describe the basics of computation. You will identify the characteristics of a programming language and start defining the syntax and semantics of the python language.<br><br>This module also illustrates the fundamental concepts required to write the code in python language. You will be knowing about the comments, operators etc and solve problems to get hands-on experience on these concepts.<p><b>Learning Objectives:</b><ol><li>Introduction to the python language</li><li>Understand the simple hello world program</li><li>Make use of comments</li><li>Usage of console input and output</li><li>Understanding different operators</li></ol>",
+        "desc": ["Module Overview:  This module will describe the basics of computation. You will identify the characteristics of a programming language and start defining the syntax and semantics of the python language.
+                 This module also illustrates the fundamental concepts required to write the code in python language. You will be knowing about the comments, operators etc and solve problems to get hands-on experience on these concepts.<p><b>Learning Objectives:Introduction to the python language Understand the simple hello world program Make use of comments Usage of console input and output  Understanding different operators"],
         "id": null,
         "name": "Getting Started with Data Types and Operations",
         "module_id": "CSPP-1M1"
