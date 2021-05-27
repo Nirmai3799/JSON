@@ -164,7 +164,7 @@
             "Assignments"
 
         ],
-        "desc": "Module Overview:This module explains the basic characteristics of python sets and dictionaries and describes how to access and manage the data in them. By the end of this module you will be able to create the sets, dictionaries and manipulate it with the built-in functions for solving the problems. Learning Objectives: Defining a Dictionary and Set, Accessing the keys and values in a dictionary, Describe operations using the inbuilt functions",
+        "desc": "Module Overview: This module explains the basic characteristics of python sets and dictionaries and describes how to access and manage the data in them. By the end of this module you will be able to create the sets, dictionaries and manipulate it with the built-in functions for solving the problems. Learning Objectives: Defining a Dictionary and Set, Accessing the keys and values in a dictionary, Describe operations using the inbuilt functions",
         "id": null,
         "name": "Dictionaries",
         "module_id": "CSPP-1M13"
