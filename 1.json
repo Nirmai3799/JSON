@@ -126,7 +126,7 @@
             "List Comprehensions",
             "Converting Between Lists and Strings",
             "Examples using lists",
-            "Locker Problem",
+            "Locker Problems",
             "Anagrams"
         ],
         "desc": "Module Overview: This module explains  another python object called tuples. You will also understand the difference between lists and tuples Learning Objectives: How to create tuples Manipulate tuples with predefined functions Worked examples on Lists",
