@@ -1,0 +1,89 @@
+[
+  {
+    "activities": [
+        "Define algorithms",
+        "Define abstraction",
+        "Construct algorithms, in english, to solve basic tasks"
+    ],
+   
+    "name": "Algorithms & Abstraction"
+},
+{
+    "activities": [
+        "Recognize and use basic data types",
+        "Interpret and react to error messages caused by programs",
+        "Use variables in code and trace different values they hold"
+    ],
+   
+    "name": "Data types, Error messages, Variables"
+},
+{
+    "activities": [
+        "Explain how different number systems hold the same information",
+        "Translate binary numbers to decimal and vice versa",
+        "Interpret binary numbers as abstract types, including colors and text"
+    ],
+   
+    "name": "Number Systems"
+},
+{
+    "activities": [
+        "Use variables in code and trace different values they hold",
+        "Use function definitions to implement algorithms",
+        "Recognize the difference between local and global scope"
+    ],
+   
+    "name": "Functions"
+},
+{
+    "activities": [
+        "Trace the call stack of nested function calls",
+        "Use libraries to import functions in categories like math, randomness, and graphics",
+        "Recognize the process of tokenizing, parsing, and translating code into instructions a computer can execute",
+        "Recognize the different types of errors raised at different points in the python translation process"
+    ],
+   
+    "name": "Program execution"
+},
+{
+    "activities": [
+        "Use logical operators on Booleans to compute whether an expression is True or False",
+        "Use conditionals in algorithms that make choices based on data"
+    ],
+   
+    "name": "Logical operators and conditions"
+},
+{
+    "activities": [
+        "Translate boolean expressions to truth tables and circuits",
+        "Translate circuits to truth tables and Boolean expressions",
+        "Recognize how addition is done at the circuit level"
+    ],
+   
+    "name": "Truth tables and circuits"
+},
+{
+    "activities": [
+        "Use while loops in algorithms to repeat actions while a certain condition is met",
+        "Identify start values, continuing conditions, and update actions for loop control variables"
+    ],
+   
+    "name": "Loops"
+},
+{
+    "activities": [
+        "Use for loops in algorithms to repeat actions a specified number of times",
+        "Recognize which numbers will be produced by a range expression"
+    ],
+   
+    "name": "For loops"
+},
+{
+    "activities": [
+        "Translate algorithms from control flow charts to python code",
+        "Use nesting of statements to create complex control flow"
+    ],
+   
+    "name": "Control flow"
+}
+]
