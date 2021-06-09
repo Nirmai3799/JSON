@@ -1,18 +1,13 @@
 [
   
-  {
-   "name": "Algorithms & Abstraction",
-    "subnav":[
-      {
+ {
     "activities": [
         "Define algorithms",
         "Define abstraction",
         "Construct algorithms, in english, to solve basic tasks"
     ],
-      }
-]
    
-   
+    "name": "Algorithms & Abstraction"
 },
 {
     "activities": [
